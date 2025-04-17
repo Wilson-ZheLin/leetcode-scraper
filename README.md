@@ -1,6 +1,6 @@
-# 🐍 LeetCode Scraper
+# LeetCode Scraper 🐍
 
-A simple Python script to extract your LeetCode problem history and export it to a CSV file.
+A simple Python script to extract your LeetCode problem history and export it to a CSV file. Feel free to leave a ⭐ if you find it helpful!
 
 ## Installation and Usage
 
